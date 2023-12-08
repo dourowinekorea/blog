@@ -1,15 +1,4 @@
-# Frisco
-
-App promotion themed template for Jekyll. Browse through a [live demo](https://brave-submarine.cloudvent.net/).
-Increase the web presence of a App with this configurable theme.
-
-![Frisco template screenshot](images/_screenshot.jpg)
-
-Frisco was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
-
-Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
-
-[![Deploy to CloudCannon](https://buttons.cloudcannon.com/deploy.svg)](https://app.cloudcannon.com/register#sites/connect/github/CloudCannon/frisco-jekyll-template)
+# Homepage
 
 ## Features
 
@@ -26,13 +15,18 @@ Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Ac
 * SEO tags
 * Google Analytics
 
-## Setup
+## 기본 정보 세팅 ⭐️
 
-1. Add your site and author details in `_config.yml`.
-2. Add your Google Analytics and Disqus keys to `_config.yml`.
-3. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
+1. Add your site and author details in [`_config.yml`](https://github.com/dourowinekorea/dourowinekorea.github.io/blob/main/_config.yml).
+2. Add your Google Analytics and Disqus keys to [`_config.yml`](https://github.com/dourowinekorea/dourowinekorea.github.io/blob/main/_config.yml).
+3. 수정후 빌드 성공 확인 ([actions](https://github.com/dourowinekorea/dourowinekorea.github.io/actions))
+4. 화면별 이미지/텍스트 수정:
+    - [Home](https://github.com/dourowinekorea/dourowinekorea.github.io/blob/main/index.html)
+    - [Blog](https://github.com/dourowinekorea/dourowinekorea.github.io/blob/main/blog/index.html)
+    - [About](https://github.com/dourowinekorea/dourowinekorea.github.io/blob/main/about.html)
+    - [Contact](https://github.com/dourowinekorea/dourowinekorea.github.io/blob/main/contact.html)
 
-## Develop
+## 로컬 실행 방법
 
 Frisco was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
 
@@ -48,9 +42,6 @@ Run `jekyll` commands through Bundler to ensure you're using the right versions:
 $ bundle exec jekyll serve
 ~~~
 
-## Editing
-
-Frisco is already optimised for adding, updating and removing pages, staff, advice, company details and footer elements in CloudCannon.
 
 ### Posts
 
