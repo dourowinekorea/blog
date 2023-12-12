@@ -21,5 +21,5 @@ author_staff_member: tom
 
 Delicate and fine aromas that recall the notes of raspberry, watermelon, and cherry. High freshness well balanced with good acidity.
 
-![grandereserva](/images/site_images/vertical_5.jpg)
+![phenomena](/images/site_images/vertical_5.jpg)
 
