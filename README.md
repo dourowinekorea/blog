@@ -67,3 +67,21 @@ $ bundle exec jekyll serve
 
 * Exposed as a data file to give clients better access.
 * Set in the *Data* / *Footer* section.
+
+---
+
+## Git 사용법
+로컬 컴퓨터에 git 이 설치되어 있어야 합니다.
+
+~~~sh
+git clone (주소)
+~~~
+
+(변경사항 바로 올려서 적용한다고 가정하고)
+파일 수정한 후에
+
+~~~sh
+git add .
+git commit -m '(수정한 내용 메세지)'
+git push origin main
+~~~
