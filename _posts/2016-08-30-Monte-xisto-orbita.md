@@ -11,6 +11,8 @@ author_staff_member: tom
 
 비단처럼 이어지는 부드러운 아로마
 
+* 와이너리 : Nicolau de Almeida
+* 지역 : Douro Superior, Portugal
 * 품종 : Touriga Nacional, Mixed Varieties
 * 도수 : 13.5
 * Vivino : 4.2
