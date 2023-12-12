@@ -5,7 +5,7 @@ description: Red wine of 'Nicolau de Almeida'
 categories:
   - Nicolau de Almeida
   - Red
-image: /images/site_images/horizontal_8.jpg
+image: "/images/site_images/horizontal_8.jpg"
 author_staff_member: tom
 ---
 
