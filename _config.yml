@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Frisco Template
+title: Douro Wine Korea
 url: "https://brave-submarine.cloudvent.net"
 baseurl:
 google_analytics_key:
@@ -9,8 +9,8 @@ google_maps_javascript_api_key:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
-description: App marketing template for Jekyll.
+logo: /black_icon_transparent_background.png
+description: 도루 와인 코리아 Douro Wine Korea
 author:
   name:
   email:
