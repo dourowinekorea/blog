@@ -21,4 +21,4 @@ author_staff_member: tom
 
 Starting with rock rose, juniper, wild berry aromas. Suprisingly mineral aromas follow, supported by background of forest leaves. Voluminous, full in the mouth with fine, fresh, pleasant acidity. Long and refined finish.
 
-![grandereserva](/images/site_images/vertical_5.jpg)
+![quintadomontexisto](/images/site_images/vertical_5.jpg)
