@@ -19,7 +19,7 @@ author_staff_member: tom
 
 Aromas with cherry, mint, eucalyputs, pine. Soft tannin loaded with fruit, fresh with an expressive acidity. Subtle, balanced and silky structure ending with aromatic finish.
 
-![orbita]("/images/site_images/vertical_5.jpg")
+![orbita](/images/site_images/vertical_5.jpg)
 
 
 
