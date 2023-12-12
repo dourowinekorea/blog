@@ -1,5 +1,5 @@
 ---
-title: MONTE XISTO ÓRBITA
+title: Monte Xisto Órbita
 date: 2016-08-30
 description: Red wine of 'Nicolau de Almeida'
 categories:
